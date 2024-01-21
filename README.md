@@ -1,6 +1,6 @@
 # g_solution
 
-A new Flutter project.
+An app made to address the issues of hunger. This app is made using Flutter.
 
 ## Getting Started
 
