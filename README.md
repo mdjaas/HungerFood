@@ -2,7 +2,7 @@
 
 This app is developed to help people who are in hunger. Lots of food gets wasted in restaurants, supermarkets, bakeries, etc. Shops can sell these excess products for a cheap price or for free to the consumers. 
 Delivery riders can register on the app and deliver foods in their locality and earn some money.
-Farmers can use or ML tools to predict the price of the crops and this ensures that they can get decent amount for the produce.
+Farmers can use ML tools to predict the price of the crops and this ensures that they can get decent amount for the produce.
 
 ## Getting Started
 
